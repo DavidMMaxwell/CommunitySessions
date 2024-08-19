@@ -22,3 +22,17 @@ Recently I've worked with many customers who are migrating on-premises databases
 
 This session will quickly review the basics of Transactional Replication, and then discuss how these can be applied to a PaaS database migration scenario. A full walkthrough of the solution will be provided including setup, validation, and cutover. Some of the common issues with replication setup and troubleshooting will be covered. Finally, there will be a discussion of how to measure performance, and potential impact to the source system.
 
+
+# Sessions in Development
+
+## Deep Dive on Workbooks in Azure Monitor
+
+Custom workbooks for inventory, troubleshooting, capacity forecasting.
+
+## Fabric in an Hour
+
+Fabric overview, major compnents, integrations, and governance.
+
+## ETL in Fabric with PySpark Notebooks
+
+Creating notebooks, data ingestion/transformation with pyspark, job scheduling and monitoring.
